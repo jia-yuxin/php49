@@ -2,3 +2,4 @@
 
 phpinfo();
 echo "heheda";
+echo "test";
